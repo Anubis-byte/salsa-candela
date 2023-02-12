@@ -1,0 +1,8 @@
+{
+  "name": "SalsaCandela",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "e172ea89"
+}

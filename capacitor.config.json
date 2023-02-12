@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "SalsaCandela",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
